@@ -45,3 +45,6 @@ Please feel free to check out my repos to get a better understanding of my work,
 <br />
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=RubTheKid&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+
+<br /><br /><br />
+_Are you a recruiter? I'm open to work :)_
