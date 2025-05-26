@@ -1,50 +1,75 @@
-### Say.My.Name.
+# 👋 Hi! I'm Jader Cardoso 
+**Full-Cycle Application Developer** | **End-to-End Solutions Architect**
 
-JK. Hi there. 
+[![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=for-the-badge)](mailto:jadercardoso@tuta.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadercardoso/)
+[![Let's Game!](https://img.shields.io/badge/Steam-004B8D?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rubthekid)
 
-## Social Medias:
-<div>
-<a href="https://www.linkedin.com/in/jadercardoso/"> <img  height="32" width="32" src="https://cdn.simpleicons.org/linkedin/00ccff99"  /> </a>
-<a href="https://www.instagram.com/jader.cardoso/"> <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" /> </a>
-<a href="https://steamcommunity.com/id/rubthekid"><img height="32" width="32" src="https://cdn.simpleicons.org/steam/004B8D" /> </a>
+## 🚀 Technical Arsenal
+
+### **Core Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Backend Mastery**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### **Frontend Expertise**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 💡 From Concept to Production
+
+I specialize in **complete digital solutions** that go through:
+1. 🧠 Strategic Planning
+2. 🎨 UI/UX Design + 🧑💻 User Psychology Research
+3. 🏗️ System Architecture
+4. 🛠️ Full-Stack Development
+5. 🚀 Cloud Deployment
+
+**What sets my work apart:**
+- 🔐 Enterprise-grade backend systems
+- 📱 Pixel-perfect cross-platform apps
+- ⚡ High-performance APIs
+- 🛡️ Security-first approach
+- 🔄 CI/CD optimized workflows
+
+## 📊 Development Insights
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubTheKid&layout=compact&theme=radical)
+
 </div>
 
-## Languages and Tools:
-<div style="space-between: 5px">
-<image src="https://raw.githubusercontent.com/github/explore/a92591a79a4ce31660058d7ccc66c79266931f61/topics/dotnet/dotnet.png" height="32" width="32"/>
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" height="32" width="32"/>
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="32" width="32"/>
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" height="32" width="32"/>
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" width="32"/>
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="32" width="32"/>
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="32" width="32"/>
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  height="32" width="32"/>
+<div align="center">
 
+![Streak Stats](https://streak-stats.demolab.com/?user=RubTheKid&theme=radical)
 
 </div>
 
-## About me:
 
-I'm a FullStack developer with skills and experience building web applications. (actually) my primary focus is on back-end development using .NET.
 
-In addition to my back-end expertise-ish, i am also capable of building front-end applications using frameworks such as React and Angular.
+## 🌐 Let's Connect!
 
-Please feel free to check out my repos to get a better understanding of my work, 'cause i prefer to let them speak for itself.
+- 💼 Looking for technical partnerships or opportunities
+- 🎯 Want to discuss an innovative project idea?
+- 🚀 Need help scaling your digital infrastructure?
 
-## Some Stats:
-
-<picture>
-<source 
-  srcset="https://github-readme-stats-lime-rho.vercel.app//api/top-langs/?username=RubTheKid&layout=compact&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-
-<img src="https://github-readme-stats-lime-rho.vercel.app/api?username=RubTheKid&show_icons=true" />
-</picture>
-
-<br />
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=RubTheKid&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
-
-<br /><br /><br />
-_Are you a recruiter? I'm open to work :)_
+📫 **Reach out:** [Email Me](mailto:jadercardoso@tuta.io) | [LinkedIn](https://www.linkedin.com/in/jadercardoso/)
