@@ -31,7 +31,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
+
+### **QA**
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+
 
 ## 💡 From Concept to Production
 
@@ -41,13 +48,6 @@ I specialize in **complete digital solutions** that go through:
 3. 🏗️ System Architecture
 4. 🛠️ Full-Stack Development
 5. 🚀 Cloud Deployment
-
-**What sets my work apart:**
-- 🔐 Enterprise-grade backend systems
-- 📱 Pixel-perfect cross-platform apps
-- ⚡ High-performance APIs
-- 🛡️ Security-first approach
-- 🔄 CI/CD optimized workflows
 
 ## 📊 Development Insights
 
