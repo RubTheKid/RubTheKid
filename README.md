@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadercardoso/)
 [![Let's Game!](https://img.shields.io/badge/Steam-004B8D?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rubthekid)
 
-## 🚀 Technical Arsenal
+## 🚀 Tech Stack
 
 ### **Core Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
